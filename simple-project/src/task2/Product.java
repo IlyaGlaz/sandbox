@@ -1,3 +1,5 @@
+package task2;
+
 public class Product {
 
     private final int portionSize;
@@ -48,7 +50,7 @@ public class Product {
 
     @Override
     public String toString() {
-        return "Product{" +
+        return "tank2.Product{" +
                 "portionSize=" + portionSize +
                 ", portions=" + portions +
                 ", fat=" + fat +
