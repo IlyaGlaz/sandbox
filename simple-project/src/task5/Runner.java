@@ -7,7 +7,7 @@ import java.util.Map;
 public class Runner {
 
     public static void main(String[] args) throws CloneNotSupportedException {
-        Student[] students = new Student[] {new Student(), new Student()};
+        Student[] students = new Student[] {new Student(), new Student(), new Student()};
 
         List<Student> students1 = List.of(students);
         System.out.println(students1);
