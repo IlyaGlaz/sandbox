@@ -1,6 +1,6 @@
 package task1;
 
-public class ListNode {
+public class  ListNode {
 
     int val;
     ListNode next;
