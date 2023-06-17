@@ -1,6 +1,6 @@
 package task5;
 
-public class Student implements Cloneable{
+public class Student implements Cloneable {
 
     int age;
     Teacher teacher;

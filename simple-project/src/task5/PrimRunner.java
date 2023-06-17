@@ -15,7 +15,7 @@ public class PrimRunner {
         Integer g = 128;
         System.out.println(a == d);
 
-        Double b = -2/0.0;
+        Double b = -2 / 0.0;
         System.out.println(b);
 
     }
