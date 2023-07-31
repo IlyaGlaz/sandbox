@@ -1,4 +1,4 @@
-package ch02
+package kotlininaction.ch02
 
 enum class Color(
     val r: Int, val g: Int, val b: Int

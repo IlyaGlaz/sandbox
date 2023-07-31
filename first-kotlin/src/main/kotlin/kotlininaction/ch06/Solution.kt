@@ -1,4 +1,4 @@
-package ch06
+package kotlininaction.ch06
 
 internal class Solution {
     fun twoSum(nums: IntArray, target: Int): IntArray {

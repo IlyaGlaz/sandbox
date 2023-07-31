@@ -1,4 +1,4 @@
-package ch02
+package kotlininaction.ch02
 
 fun fizzBuzz(i: Int) = when {
     i % 15 == 0 -> "FizzBuzz "

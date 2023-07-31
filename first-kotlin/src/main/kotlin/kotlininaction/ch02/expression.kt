@@ -1,4 +1,4 @@
-package ch02
+package kotlininaction.ch02
 
 interface Expr
 class Num(val value: Int) : Expr

@@ -1,4 +1,4 @@
-package ch05
+package kotlininaction.ch05
 
 fun main() {
     println(people.filter { it.age > 30 })

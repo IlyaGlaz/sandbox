@@ -1,4 +1,4 @@
-package ch02
+package kotlininaction.ch02
 
 fun main() {
     println(getMnemonic(Color.RED))

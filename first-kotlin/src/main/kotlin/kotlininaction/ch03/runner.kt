@@ -1,4 +1,4 @@
-package ch03
+package kotlininaction.ch03
 
 fun main() {
     val strings = listOf("first", "second", "fourteenth")

@@ -1,4 +1,4 @@
-package ch06
+package kotlininaction.ch06
 
 fun main() {
 
