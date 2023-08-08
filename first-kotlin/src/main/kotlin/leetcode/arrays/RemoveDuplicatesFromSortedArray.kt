@@ -1,4 +1,4 @@
-package leetcode
+package leetcode.arrays
 
 fun main() {
     val nums = intArrayOf(1, 1, 1, 1, 2)

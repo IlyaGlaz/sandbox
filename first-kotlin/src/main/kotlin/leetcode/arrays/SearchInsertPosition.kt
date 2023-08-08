@@ -1,9 +1,9 @@
-package leetcode
+package leetcode.arrays
 
 fun main() {
     val nums = intArrayOf(2, 3, 4, 6, 9)
 
-    println(searchInsert(nums, 2))
+
 }
 
 /**
